@@ -1,6 +1,6 @@
 {
   "name": "ember-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "meta package for all the packages in ember's app blueprint",
   "main": "index.js",
   "repository": "git@github.com:NullVoxPopuli/ember-app.git",
