@@ -7,8 +7,7 @@ update_configs:
     update_schedule: "live"
 
     version_requirement_updates:
-    - 
-      increase_versions
+    - "increase_versions"
 
     automerged_updates:
     -
