@@ -14,6 +14,8 @@ jobs:
     - name: Install
       run: yarn install
     - name: Publish
+      env:
+        NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       # https://github.com/release-it/release-it/blob/master/docs/ci.md
       run: |
         git remote rm origin
