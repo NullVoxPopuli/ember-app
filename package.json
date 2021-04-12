@@ -38,7 +38,7 @@
     "qunit-dom": "^1.6.0"
   },
   "devDependencies": {
-    "execa": "^4.0.2",
+    "execa": "^5.0.0",
     "release-it": "^13.6.3",
     "release-it-lerna-changelog": "^2.3.0",
     "semver": "^7.0.0"
