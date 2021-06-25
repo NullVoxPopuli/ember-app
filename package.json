@@ -40,7 +40,7 @@
   "devDependencies": {
     "execa": "^4.0.2",
     "release-it": "^13.6.3",
-    "release-it-lerna-changelog": "^2.3.0",
+    "release-it-lerna-changelog": "^2.4.0",
     "semver": "^7.0.0"
   }
 }
